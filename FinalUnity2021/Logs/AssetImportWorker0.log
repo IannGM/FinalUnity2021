@@ -183,3 +183,19 @@ Received Import Request.
 Start importing Assets/New Shader Graph.shadergraph using Guid(e4547cff9ef794381abf94aef68966ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e510792f2ac6baeacbb006b5adc4bf8') in 0.145805 seconds 
   Import took 0.149636 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 42996.272413 seconds.
+  path: Assets/New Animation.anim
+  artifactKey: Guid(d312c07057aa344259a643059ce38472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Animation.anim using Guid(d312c07057aa344259a643059ce38472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab24532146fa657e1e29cf52c6523cc2') in 0.215744 seconds 
+  Import took 0.361721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.425498 seconds.
+  path: Assets/asset1.controller
+  artifactKey: Guid(39a9254a979b840928a1761e58e0f180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1.controller using Guid(39a9254a979b840928a1761e58e0f180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4df1ed19fe0d38a558177431c676c877') in 0.183476 seconds 
+  Import took 0.187527 seconds .
+
